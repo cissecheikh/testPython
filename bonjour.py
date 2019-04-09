@@ -1,0 +1,1 @@
+print("BONJOUR TOUT LE MONDE")
